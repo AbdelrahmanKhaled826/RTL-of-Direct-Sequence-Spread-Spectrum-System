@@ -135,18 +135,5 @@ This effectively encodes the binary data into phase variations of the sine wave 
 - MATLAB DSP System Toolbox documentation  
 - FPGA-based DSSS & BPSK design tutorials  
 
----
 
-## 🏷️ License
-
-This project is released under the **MIT License**.  
-You are free to use, modify, and distribute this work with proper attribution.
-
----
-
-## 🌟 Acknowledgment
-
-Special thanks to academic mentors and communication systems researchers whose work inspired this project.
-
----
 
